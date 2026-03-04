@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seattlerestorationco.com/sitemap.xml
